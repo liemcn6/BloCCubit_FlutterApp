@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "232021529015",
+    "project_id": "evo-homecare-dev",
+    "storage_bucket": "evo-homecare-dev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232021529015:android:5c41c49921e2a75d1a1832",
+        "android_client_info": {
+          "package_name": "com.evo.homecare.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqR4G1bYxjZB5F768wNTtykk41FxWfTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232021529015:android:1b33d5030dfd77a61a1832",
+        "android_client_info": {
+          "package_name": "com.evotek.homecare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqR4G1bYxjZB5F768wNTtykk41FxWfTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232021529015:android:665b4b0ebd7383c01a1832",
+        "android_client_info": {
+          "package_name": "com.evotek.opencity.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcqR4G1bYxjZB5F768wNTtykk41FxWfTg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
